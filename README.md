@@ -1,15 +1,18 @@
-# Data Structures
+<p align="center"><img src="./course-panel.svg" width="100%" alt="DATA STRUCTURES course panel"/></p>
 
-C를 기반으로 자료구조와 알고리즘의 핵심 개념을 정리한 저장소입니다.
+# DATA STRUCTURES
 
-## Topics
+Notion에 축적한 수업 필기와 실습 기록을 내용 중심으로 복원한 저장소입니다.
 
-- 배열과 연결 리스트
-- 스택과 큐
-- 트리와 이진 탐색 트리
-- Heap과 우선순위 큐
-- 그래프
-- 정렬과 탐색
-- 최단 경로
+## Archive
 
-개인 연락처, 과제 답안, 시험 문제와 강의 자료 원문은 포함하지 않습니다.
+- [전체 필기와 실습 내용 보기](./FULL_NOTES.md)
+- 총 **11개 페이지**의 수업 기록 수록
+- 개인 식별 정보만 제거하고 설명·문제·풀이·코드는 유지
+
+## Scope
+
+`LIST` · `TREE` · `GRAPH` · `SORT`
+
+> 원본 강의 첨부파일 자체가 아니라, 개인이 작성한 필기와 학습 기록을 공개합니다.
+
