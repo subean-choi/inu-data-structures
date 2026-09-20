@@ -1,2 +1,15 @@
-# inu-data-structures
-Data structures and algorithms study notes from INU
+# Data Structures
+
+C를 기반으로 자료구조와 알고리즘의 핵심 개념을 정리한 저장소입니다.
+
+## Topics
+
+- 배열과 연결 리스트
+- 스택과 큐
+- 트리와 이진 탐색 트리
+- Heap과 우선순위 큐
+- 그래프
+- 정렬과 탐색
+- 최단 경로
+
+개인 연락처, 과제 답안, 시험 문제와 강의 자료 원문은 포함하지 않습니다.
